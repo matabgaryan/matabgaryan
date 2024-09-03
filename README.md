@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-Welcome to my GitHub profile! I'm a software engineer with a passion for creating high-quality web/mobile applications. With 5+ years of industry experience, I've worked on a wide range of projects and acquired expertise in front-end/mobile/backend development, UI/UX design, and performance optimization. I thrive in collaborative environments and enjoy tackling complex challenges.
+Welcome to my GitHub profile! I'm a software engineer with a passion for creating high-quality web/mobile applications.I've worked on a wide range of projects and acquired expertise in front-end/mobile/backend development, UI/UX design, and performance optimization. I thrive in collaborative environments and enjoy tackling complex challenges.
 
 ## 🔧 Tech Stack
 
